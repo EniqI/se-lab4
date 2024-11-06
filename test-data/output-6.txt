@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO, from pri
+SUCCESS  # <- TORPEDO, from sec
