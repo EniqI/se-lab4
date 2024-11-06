@@ -1,0 +1,3 @@
+# Create a ship with stocked torpedo stores that doesn't want to fire if one failed 
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # should have fired from the primary, but that failed

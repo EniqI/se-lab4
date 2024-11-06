@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO, all 1.re
+FAILURE # <- TORPEDO masodikra
